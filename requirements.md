@@ -64,7 +64,7 @@ From Diagnosis to Financial Support: An AI Workflow Copilot for Rural Healthcare
 **1. AWS Lambda**:
 - Serverless functions for core workflow logic
 
-**Amazon S3**:
+**2. Amazon S3**:
 - Store uploaded clinical data securely
 - Store generated PDF documents
 
@@ -80,7 +80,7 @@ From Diagnosis to Financial Support: An AI Workflow Copilot for Rural Healthcare
 
 ### Financial Eligibility Engine
 
-**1. Custom Rule-Based Logic** (Python/Node.js):
+**1. Custom Rule-Based Logic** (Python/Node.js)
 
 **2. Amazon DynamoDB**:
 - Store government and non-gov scheme information
